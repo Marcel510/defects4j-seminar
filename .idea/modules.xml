@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/defects4j-seminar.iml" filepath="$PROJECT_DIR$/.idea/defects4j-seminar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/defects4j/framework/lib/formatter/formatter.iml" filepath="$PROJECT_DIR$/defects4j/framework/lib/formatter/formatter.iml" />
+    </modules>
+  </component>
+</project>
