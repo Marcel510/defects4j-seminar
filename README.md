@@ -1,6 +1,6 @@
 ### This repository containes the files for Seminar Software Quality at TUM, topic: Test Suite Minimization:
-Toolchain obtain test wise coverage using Teamscale JaCoCo agent and uploading it automatically to Teamscale and conduct
-a Test Suite Minmization.
+Toolchain to obtain test wise coverage using Teamscale JaCoCo agent and upload it automatically to Teamscale and conduct
+a Test Suite Minmization with fault detection evaluation.
 
 ## Contents
 
