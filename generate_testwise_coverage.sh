@@ -9,7 +9,6 @@ fi
 ### Config
 JACOCO_AGENT_DIR="" # Path to root directory of teamscale jacoco agent
 WORKDIR="" # Working directory for testwise coverage generation
-#WORKDIR="/mnt/c/Users/marce/Documents/workspace/semworkspace" # Working directory for testwise coverage generation
 PROJECT=$1 # Defects4j name of project
 BUG_ID=$2 # Defects4j Bug Id
 ###

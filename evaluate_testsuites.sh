@@ -9,7 +9,6 @@ fi
 ### Config
 WORKDIR="" # Working directory for testwise coverage generation
 TESTSUITES=("greedy" "hgs")
-#TESTSUITES=("original")
 PROJECT=$1 # Defects4j name of project
 BUG_ID=$2 # Defects4j Bug Id
 ###
